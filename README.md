@@ -84,7 +84,7 @@ My professional journey includes training in web development in Spain and intern
 
 Today, I'm specializing further in **Python and AI-powered application development**, combining my existing web experience with automation, APIs and artificial intelligence.
 
-I enjoy building practical tools rather than technology for technology's sake — projects that help people create, learn, organize information or solve everyday problems.
+I enjoy building practical tools rather than technology for technology's sake projects that help people create, learn, organize information or solve everyday problems.
 
 My long-term goal is to work as an **AI Software Developer**, building useful applications at the intersection of software engineering, web technologies and artificial intelligence.
 
