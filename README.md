@@ -113,7 +113,7 @@ https://github.com/JhonyS1602
 
 ---
 
-### ⭐ *“Build useful software. Solve real problems. Keep learning.”*
+### ⭐ “One bug a day.”
 
 
 
