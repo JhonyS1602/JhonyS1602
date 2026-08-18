@@ -1,54 +1,120 @@
+# 👨‍💻 Jhony S.
 
-## 👨‍💻 **Jhony S.**
-
-**Frontend Developer | JavaScript • TypeScript • Angular • React**
-Tech enthusiast based in Vienna | Passionate about EdTech & AI-driven interfaces
-
----
-
-### 🚀 **Featured Projects**
-
-* **Mini Blog Angular**
-  CRUD application built with Angular 17+, standalone components & services.
-
-* **Task Manager (TypeScript)**
-  Type-safe architecture using classes, interfaces, and modular logic.
-
-* **React Dashboard**
-  Clean dashboard UI built with React, Hooks and reusable components.
-
-* **Node API REST (coming soon)**
-  Backend API with Express, middleware, controllers, routing & best practices.
+**Software Developer | Python • TypeScript • React • AI Applications**
+Based in Vienna 🇦🇹 | Building useful software with Web Technologies, Automation & Artificial Intelligence
 
 ---
 
-### 🛠️ **Tech Stack**
+## 🚀 Featured Projects
 
-**Frontend:** Angular • React • JavaScript (ES6+) • TypeScript
-**Backend:** Node.js • Express
-**Database:** MongoDB • PostgreSQL
-**Tools:** Git • GitHub • Postman • Figma • VSCode
+### 🎧 Python Audio Generator
 
----
+Python application for generating audiobooks and podcast-style audio using text-to-speech and audio processing.
 
-### 🧠 **About Me**
+**Tech:** Python • Edge TTS • MoviePy • Git
 
-Self-driven Frontend Developer focused on building clean, modern and accessible web applications.
-I love intuitive UI, clean code, and using technology to solve real problems.
-Currently learning German and exploring new opportunities in Austria 🇦🇹.
+> Currently evolving into a more complete AI-powered audio application.
 
 ---
 
-### 🌐 **Connect with Me**
+### 🅰️ Mini Blog Angular
 
-* **LinkedIn:** https://www.linkedin.com/in/jhony-jes%C3%B9s-a56688304/
-* **GitHub:** [https://github.com/JhonyS1602](https://github.com/JhonyS1602)
+CRUD web application built with Angular, standalone components and reusable services.
+
+**Tech:** Angular • TypeScript • HTML • CSS
+
+---
+
+### ✅ Task Manager — TypeScript
+
+Task management application focused on type-safe architecture, interfaces, classes and modular application logic.
+
+**Tech:** TypeScript • JavaScript
 
 ---
 
-### ⭐ *“Write clean code. Build meaningful experiences.”*
+### ⚛️ React Dashboard
+
+Modern dashboard interface built with reusable React components and Hooks.
+
+**Tech:** React • JavaScript • CSS
 
 ---
+
+## 🤖 What I'm Building Toward
+
+My current focus is developing **AI-powered software applications** that combine:
+
+* 🐍 Python development
+* ⚛️ React & TypeScript interfaces
+* 🔌 APIs and backend services
+* 🤖 Generative AI integrations
+* ⚙️ Automation
+* 📄 Intelligent document processing
+* 🎧 Text, audio and content-generation tools
+
+I am especially interested in creating technology that solves real problems and makes information more accessible and useful.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+Python • JavaScript • TypeScript
+
+**Frontend**
+React • Angular • HTML • CSS • Responsive Design
+
+**CMS / Web Development**
+Drupal • WordPress
+
+**Currently expanding into**
+FastAPI • REST APIs • PostgreSQL • Docker • AI APIs • RAG
+
+**Tools**
+Git • GitHub • VS Code • Postman • Figma
+
+---
+
+## 🧠 About Me
+
+I'm a Software Developer with a background in web development, frontend technologies and digital projects.
+
+My professional journey includes training in web development in Spain and international experience working with **Drupal in Hungary**, where I contributed to real-world web projects in a multicultural environment.
+
+Today, I'm specializing further in **Python and AI-powered application development**, combining my existing web experience with automation, APIs and artificial intelligence.
+
+I enjoy building practical tools rather than technology for technology's sake — projects that help people create, learn, organize information or solve everyday problems.
+
+My long-term goal is to work as an **AI Software Developer**, building useful applications at the intersection of software engineering, web technologies and artificial intelligence.
+
+---
+
+## 🌱 Currently Learning
+
+🐍 Advanced Python
+⚡ FastAPI
+⚛️ React + TypeScript
+🗄️ PostgreSQL
+🐳 Docker
+🤖 Generative AI & LLM APIs
+📚 RAG and AI-powered applications
+🇩🇪 German
+
+---
+
+## 🌐 Connect With Me
+
+**LinkedIn:**
+https://www.linkedin.com/in/jhony-jes%C3%B9s-a56688304/
+
+**GitHub:**
+https://github.com/JhonyS1602
+
+---
+
+### ⭐ *“Build useful software. Solve real problems. Keep learning.”*
+
 
 
 
