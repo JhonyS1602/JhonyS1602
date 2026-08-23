@@ -6,7 +6,7 @@
 
 I build practical software combining **Python, web technologies, automation and Artificial Intelligence**.
 
-Currently focused on developing AI-powered applications with **local LLMs, document processing, APIs and modern web interfaces**.
+Currently focused on AI-powered applications, local LLMs, document processing and modern web interfaces.
 
 ---
 
@@ -88,29 +88,23 @@ I'm a Software Developer with experience in **web development, frontend technolo
 
 My background includes technical training in Spain and international experience working with **Drupal in Hungary**, contributing to real-world projects in a multicultural environment.
 
-Today I'm expanding my software development experience toward **Python and AI-powered applications**, with a particular interest in local language models, automation, intelligent document processing and full-stack AI applications.
+Today I'm expanding my software development experience toward **Python and AI-powered applications**, with a particular interest in automation, intelligent document processing, APIs and full-stack AI applications.
 
 I enjoy building practical tools that help people **create, understand information, automate tasks and solve real problems**.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-`Python Application Development` • `FastAPI` • `React + TypeScript` • `PostgreSQL` • `Docker`
-
-`Embeddings` • `Semantic Search` • `RAG` • `LLM APIs`
+`FastAPI` • `React + TypeScript` • `PostgreSQL` • `Docker` • `Embeddings` • `Semantic Search` • `RAG`
 
 ---
 
-## 🎯 Current Focus
+## 🌐 Connect With Me
 
-```text
-Python
-   +
-AI / LLMs
-   +
-APIs
-   +
-React / TypeScript
-   ↓
-AI-powered software applications
+💼 [LinkedIn](https://www.linkedin.com/in/jhony-jes%C3%B9s-a56688304/)  
+💻 [GitHub](https://github.com/JhonyS1602)
+
+---
+
+### ⭐ One bug a day.
